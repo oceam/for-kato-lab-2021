@@ -5,7 +5,8 @@
 
 ### 特別資料  
 
-[二宮先生、私の国際化](https://www.jstage.jst.go.jp/article/shita/29/1/29_10/_pdf)
+[二宮先生、私の国際化](https://www.jstage.jst.go.jp/article/shita/29/1/29_10/_pdf)  
+[The Affective Growth of Computer Vision(CVPR2021)](https://openaccess.thecvf.com/content/CVPR2021/html/Su_The_Affective_Growth_of_Computer_Vision_CVPR_2021_paper.html)
 
 ## 質問は随時受け付けています ZoomのChatを活用ください　　
 
