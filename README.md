@@ -1,30 +1,32 @@
-# FieldInfomatics-Lecture-2021
-フィールドインフォマティクス2021講義
+# A special seminar for Kato-lab memebers 
+20210702 
 講義サポート ページ  
 場所：オンライン
 
 ## 質問は随時受け付けています ZoomのChatを活用ください　　
-#### NOTE:回数制限なし、記名なし、長さ制限なし
-#### 講義資料前半のPPTは[こちらから](https://drive.google.com/file/d/1Gpe87RSfEZIcwKxziCUk481wSGWg3pre/view?usp=sharing)  
-#### 講義資料後半のPPTは[こちらから](https://drive.google.com/file/d/1tR1ywxDg13xz-H8uCHhVWrBDMsPzz8_T/view?usp=sharing)  
 
 [おすすめ深層学習入門](https://youtu.be/W92VcivhoBs)
 ### [Study_CNN_Explainer](https://utokyo-fieldphenomics-lab.github.io/Study_CNN_Explainer/) (本日の講義用に修正した)  
 
 original version from Here: [Zijie J. Wang et al., 2020](https://github.com/poloclub/cnn-explainer)  
 we modified the training data and model for students with agriculture background.  
-modified version can be [found here](https://github.com/UTokyo-FieldPhenomics-Lab/Study_CNN_Explainer).
-  
-  <br>  
+modified version can be [found here](https://github.com/UTokyo-FieldPhenomics-Lab/Study_CNN_Explainer). 
+<br>  
   
   
 ### ハンズオン1：深層学習を味わってみよう  
 #### 01　雑草の分類モデル見てみよう　
 - [Model avaiable here](https://teachablemachine.withgoogle.com/models/1u_hCfzqq/)
-- [Sample Data avaiable here](https://drive.google.com/drive/folders/1FnASPNWT6vJ61q4pXM-_cdARDBLWkaBw?usp=sharing)
-
 
 #### 02　何か作ってみよう　[Google Teachable Machine](https://teachablemachine.withgoogle.com/)
+## ハンズオンとレポート関係
+1. [Google Teachable MachineでAIを体験してみよう](https://teachablemachine.withgoogle.com/)
+2. データセット：  
+[Rice Leaf Diseases Dataset](https://drive.google.com/drive/folders/1fVMMot1PXGeLIvw2OB6thkH3_jX9nSX3?usp=sharing), Resources from [here](https://www.kaggle.com/vbookshelf/rice-leaf-diseases) ;  
+[flowers](https://drive.google.com/drive/folders/1oukB6MPBRcEejDhf1qphxcLcP4vcVSux?usp=sharing),Resources from [here](https://www.kaggle.com/alxmamaev/flowers-recognition) ;   
+[V2 Plant Seedlings Dataset](https://drive.google.com/drive/folders/1hcN1MAa-KkLZvTUVJX-FhvXPEqRHusnK?usp=sharing),Resources from [here](https://www.kaggle.com/vbookshelf/v2-plant-seedlings-dataset) ; 
+[Weeds_practice_Dataset](https://drive.google.com/drive/folders/1O5fx-mgyGC_-3Bl2Il0LnT9ouC7OCq0R?usp=sharing) ;  
+
   
 <br>  
 
