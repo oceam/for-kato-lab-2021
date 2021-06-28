@@ -3,6 +3,10 @@
 講義サポート ページ  
 場所：オンライン
 
+### 特別資料  
+
+[二宮先生、私の国際化](https://www.jstage.jst.go.jp/article/shita/29/1/29_10/_pdf)
+
 ## 質問は随時受け付けています ZoomのChatを活用ください　　
 
 [おすすめ深層学習入門](https://youtu.be/W92VcivhoBs)
@@ -19,7 +23,6 @@ modified version can be [found here](https://github.com/UTokyo-FieldPhenomics-La
 - [Model avaiable here](https://teachablemachine.withgoogle.com/models/1u_hCfzqq/)
 
 #### 02　何か作ってみよう　[Google Teachable Machine](https://teachablemachine.withgoogle.com/)
-## ハンズオンとレポート関係
 1. [Google Teachable MachineでAIを体験してみよう](https://teachablemachine.withgoogle.com/)
 2. データセット：  
 [Rice Leaf Diseases Dataset](https://drive.google.com/drive/folders/1fVMMot1PXGeLIvw2OB6thkH3_jX9nSX3?usp=sharing), Resources from [here](https://www.kaggle.com/vbookshelf/rice-leaf-diseases) ;  
